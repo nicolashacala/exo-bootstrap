@@ -1,0 +1,8 @@
+.container{
+	border: 1px solid black;
+	text-align: center;
+}
+[class*="col"]{
+	text-align: center;
+	border: 1px solid red;
+}
